@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Welcome to MQ-Adonisjs-Models!
 MQ-Models is a set of base models for MQ's Team server.
 MQ-Models runs on **Adonisjs 4**, **lucid-mongo**.
 It rewrites the relational definitions in models and functions to extend and query the mongoDB more easily.
